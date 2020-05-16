@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115258587926",
+    "firebase_url": "https://theme-based-project.firebaseio.com",
+    "project_id": "theme-based-project",
+    "storage_bucket": "theme-based-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115258587926:android:a93ec093ec80e7a4e9ae37",
+        "android_client_info": {
+          "package_name": "com.example.theme.medmanager01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115258587926-lv1n6o2vo72rkll0irdlqfdriih2fqsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theme.medmanager01",
+            "certificate_hash": "1c4065595fdba48dcb1371662c54b51a39108f28"
+          }
+        },
+        {
+          "client_id": "115258587926-ukus31n9ep8f66mmaja9b0vcm3qmot2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJxiFtx60w94W17PEJsCJAL0lG8UpwkOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115258587926-ukus31n9ep8f66mmaja9b0vcm3qmot2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
